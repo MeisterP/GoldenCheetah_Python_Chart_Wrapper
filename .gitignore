@@ -1,2 +1,3 @@
-/GC_DATA/*.py
-/.idea/*
+__pycache__/
+GC_DATA/
+.idea/
